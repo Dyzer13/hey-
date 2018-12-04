@@ -1,0 +1,6 @@
+﻿token=التوكن 
+owner=515474180603641866
+prefix= s
+game= !phelp
+stayinchannel=true
+songinstatus=true 
