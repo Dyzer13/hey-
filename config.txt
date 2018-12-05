@@ -1,6 +1,6 @@
-token=process.env.token
-owner=354716386716811264
-prefix==
-game=Alpha Bots!
+token=NTE4MDA4Nzc0OTY3OTUxMzYy.DuinMg.fFBDmij3w0pXYfr46Wl4AGrCYf8
+owner=515474180603641866
+prefix=M
+game=Michou VIP
 stayinchannel=true
 songinstatus=true
