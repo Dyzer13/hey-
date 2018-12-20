@@ -1,6 +1,6 @@
-token=NTE4MDA4Nzc0OTY3OTUxMzYy.DuinMg.fFBDmij3w0pXYfr46Wl4AGrCYf8
+token=NTIxMDc5OTY5MjU5MDYxMjQ4.Dv2CUA.WG9Z9Zn7NOHbaOneMN5968pO68o
 owner=515474180603641866
-prefix=M
-game=Michou VIP
+prefix=1
+game=Youcef. VIP
 stayinchannel=true
 songinstatus=true
